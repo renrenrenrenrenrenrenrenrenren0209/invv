@@ -13,5 +13,6 @@ r"https://inv.nadeko.net/",
 r"https://invidious.fdn.fr/",
 r"https://inv.vern.cc/",
 r"https://invi.susurrando.com/",
-r"https://invidious.nerdvpn.de/"
+r"https://invidious.nerdvpn.de/",
+r"https://invidious.einfachzocken.eu/"
 ]
